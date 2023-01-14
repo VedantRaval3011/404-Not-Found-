@@ -27,11 +27,11 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#html)
-  - [Built With](#css)
-- 
+  - [Built With]
+ 
+- [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#Thanks to dev challanges for providing this challange!)
+- [Acknowledgements](#acknowlegements)
 
 <!-- OVERVIEW -->
 
